@@ -1,2 +1,2 @@
-mrcnn/logs
-datasets/white2stripe/model
+mrcnn/logs/*.*
+datasets/white2stripe/model/*.*
